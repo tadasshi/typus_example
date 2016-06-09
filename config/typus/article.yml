@@ -1,0 +1,8 @@
+# Use the README file as a reference to customize settings.
+
+Article:
+  fields:
+    default: title, description
+    form: title, description
+  relationships: 
+  application: Application
